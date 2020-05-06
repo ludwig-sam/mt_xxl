@@ -1,0 +1,8 @@
+<xml>
+    <ToUserName><![CDATA[公众号]]></ToUserName>
+    <FromUserName><![CDATA[其他人]]></FromUserName>
+    <CreateTime>1348831860</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[谁是blue 你好 你好 blue]]></Content>
+    <MsgId>1234567890123456</MsgId>
+</xml>

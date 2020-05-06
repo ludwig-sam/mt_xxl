@@ -1,0 +1,8 @@
+<xml>
+    <ToUserName><![CDATA[公众号]]></ToUserName>
+    <FromUserName><![CDATA[lixingbo]]></FromUserName>
+    <CreateTime>1348831860</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[图片]]></Content>
+    <MsgId>1234567890123456</MsgId>
+</xml>

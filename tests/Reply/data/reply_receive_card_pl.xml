@@ -1,0 +1,17 @@
+<xml>
+    <ToUserName><![CDATA[gh_611db32b9272]]></ToUserName>
+    <FromUserName><![CDATA[oZy2G1fT7FwC9kJd11qq6zgYb6mE]]></FromUserName>
+    <CreateTime>1532507714</CreateTime>
+    <MsgType><![CDATA[event]]></MsgType>
+    <Event><![CDATA[user_get_card]]></Event>
+    <CardId><![CDATA[pZy2G1asKWya6YY0JPzh0Cq7rtDY]]></CardId>
+    <IsGiveByFriend>0</IsGiveByFriend>
+    <UserCardCode><![CDATA[861961170863]]></UserCardCode>
+    <FriendUserName><![CDATA[]]></FriendUserName>
+    <OuterId>0</OuterId>\n<OldUserCardCode><![CDATA[]]></OldUserCardCode>
+    <OuterStr><![CDATA[outer_str_card_receive_miniprogram]]></OuterStr>
+    <IsRestoreMemberCard>0</IsRestoreMemberCard>
+    <IsRecommendByFriend>0</IsRecommendByFriend>
+    <SourceScene><![CDATA[SOURCE_SCENE_UNKNOW]]></SourceScene>
+    <UnionId><![CDATA[ooiXFw9VWS81r2727jFSICn3HcBc]]></UnionId>
+</xml>
